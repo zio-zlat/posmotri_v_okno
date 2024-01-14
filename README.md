@@ -1,0 +1,1 @@
+git@github.com:zio-zlat/posmotri_v_okno.git
